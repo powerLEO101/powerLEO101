@@ -1,4 +1,13 @@
-## Hi there 👋
+## Zile (Leo) Huang
+
+
+Hi, I am currently a student at NYU majoring in Philosophy and Computer Science. 
+
+I love running, coding, swimming, watching movies, reading various texts, compete on Kaggle, compete on CodeForces...
+
+Best,
+Leo
+
 
 <!--
 **powerLEO101/powerLEO101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
